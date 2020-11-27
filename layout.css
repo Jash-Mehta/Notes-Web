@@ -1,0 +1,22 @@
+body{
+    background-image: url("better.JPG");
+        color:black;
+}
+#addBtn{
+    color: rgb(0, 0, 0);
+    background-color: darkgoldenrod;
+}
+#addTxt{
+    background-color: rgb(245, 202, 86);
+   color: black;
+   font-family: 'Times New Roman', Times, serif;
+}
+#index{
+    color: black;
+    background-color: darkgoldenrod;
+}
+#Owner{
+    color: black;
+    background-color: darkgoldenrod;
+    text-align: right;
+}
